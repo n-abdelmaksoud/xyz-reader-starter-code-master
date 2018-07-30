@@ -1,0 +1,24 @@
+<resources>
+
+    <dimen name="list_item_card_padding">8dp</dimen>
+    <dimen name="list_item_card_elevation">8dp</dimen>
+    <dimen name="list_toolbar_elevation">16dp</dimen>
+
+
+    <!--padding-->
+    <dimen name="article_list_padding">16dp</dimen>
+    <dimen name="article_title_padding">8dp</dimen>
+    <dimen name="back_arrow_padding">16dp</dimen>
+    <!-- detail -->
+
+    <dimen name="customActionBarSize">64dp</dimen>
+    <dimen name="detail_title_text_size">24sp</dimen>
+    <dimen name="detail_body_text_size">16sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_diameter">56dp</dimen>
+    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="fab_press_translation_z">16dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+
+</resources>
