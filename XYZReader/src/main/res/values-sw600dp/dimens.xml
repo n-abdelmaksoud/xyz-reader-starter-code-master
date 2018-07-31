@@ -1,8 +1,8 @@
 <resources>
 
-   <!-- padding-->
-    <dimen name="back_arrow_padding">24dp</dimen>
 
+    <!--article item-->
+    <dimen name="list_item_card_padding">8dp</dimen>
 
     <!-- detail -->
     <dimen name="customActionBarSize">88dp</dimen>
@@ -12,4 +12,6 @@
 
     <dimen name="fab_diameter">72dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="back_arrow_padding">24dp</dimen>
 </resources>

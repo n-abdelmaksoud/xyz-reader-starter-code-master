@@ -11,6 +11,7 @@
 
     <style name="Theme.Bacon.Article" parent="Theme.Bacon">
         <item name="android:windowEnterTransition">@transition/grid_enter</item>
+        <item name="android:windowReenterTransition">@transition/grid_enter</item>
     </style>
 
 </resources>

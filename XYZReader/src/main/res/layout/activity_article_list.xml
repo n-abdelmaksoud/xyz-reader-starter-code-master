@@ -32,6 +32,7 @@
             android:layout_height="match_parent"
             android:clipToPadding="false"
             android:scrollbarStyle="outsideOverlay"
+            android:layoutAnimation="@anim/article_list_anim"
             android:padding="@dimen/article_list_padding" />
     </android.support.v4.widget.SwipeRefreshLayout>
 

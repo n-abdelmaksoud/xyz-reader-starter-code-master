@@ -1,6 +1,7 @@
 <resources>
 
-    <dimen name="list_item_card_padding">8dp</dimen>
+    <!--article item-->
+    <dimen name="list_item_card_padding">4dp</dimen>
     <dimen name="list_item_card_elevation">8dp</dimen>
     <dimen name="list_toolbar_elevation">16dp</dimen>
 
