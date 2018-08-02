@@ -2,8 +2,8 @@
 
     <!--article item-->
     <dimen name="list_item_card_padding">4dp</dimen>
-    <dimen name="list_item_card_elevation">8dp</dimen>
-    <dimen name="list_toolbar_elevation">16dp</dimen>
+    <dimen name="list_item_card_elevation">1dp</dimen>
+    <dimen name="list_toolbar_elevation">4dp</dimen>
 
 
     <!--padding-->
@@ -18,7 +18,7 @@
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
     <dimen name="fab_diameter">56dp</dimen>
-    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_press_translation_z">16dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
